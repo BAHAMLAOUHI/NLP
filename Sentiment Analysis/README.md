@@ -1,8 +1,7 @@
 we will explore the steps of Sentiment analysis (sentence level) which is
 a typical supervised learning task where given a text string, it categorizes the text string into
 predefined categories.
- Given a course review, your task is to predict the sentiment (or opinion) about the
-considered course.
+
 
 # To solve this problem:
 
